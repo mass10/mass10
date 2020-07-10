@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](./.images/20200613_234354142_iOS.heic)
+![cover image](./.images/20200613_234354142_iOS.heic)
