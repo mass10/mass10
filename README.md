@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![cover image](./.images/20200613_234354142_iOS.png)
+![cover image](./raw/master/.images/20200613_234354142_iOS.png)
