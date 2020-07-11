@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 
 <img src="/mass10/mass10/blob/master/.images/20200613_234355718_iOS.png">
-<img src="/blob/master/.images/20200613_234355718_iOS.png">
+<img src=".images/20200613_234355718_iOS.png">
 
