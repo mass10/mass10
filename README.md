@@ -1,6 +1,6 @@
 ![cover image](/mass10/mass10/blob/master/.images/20200613_234355718_iOS.png)
 
-### Hi there 👋
+純米酒たちです。
 
 <!--
 **mass10/mass10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
