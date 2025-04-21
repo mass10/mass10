@@ -1,4 +1,4 @@
-<!-- ![cover image](https://github.com/mass10/mass10/blob/master/.images/20200613_234355718_iOS.png) -->
+![cover image](https://github.com/mass10/mass10/blob/master/.images/20200613_234355718_iOS.png)
 
 <!--
 **mass10/mass10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
